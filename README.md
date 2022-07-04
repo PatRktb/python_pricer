@@ -1,5 +1,5 @@
 # python_pricer with GUI
-Option pricing model using Black & Scholes or binomial tree for American or European option ; GUI implemented
+Option pricing model using Black & Scholes for American or European option ; GUI implemented
 
 
 
